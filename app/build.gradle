@@ -62,6 +62,7 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-extensions:2.0.0'
 
     implementation 'com.google.dagger:dagger:2.33'
+    implementation project(path: ':emptylib')
     kapt "com.google.dagger:dagger-compiler:2.33"
 
     implementation 'com.squareup.okhttp3:okhttp:4.1.1'

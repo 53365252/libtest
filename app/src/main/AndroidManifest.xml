@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Weather">
         <activity
-            android:name=".ui.pages.dailyweather.WeatherDailyActivity"
+            android:name="com.allen.emptylib.ui.login.LoginActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
