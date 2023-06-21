@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="open_gps_title">Open GPS</string>
+    <string name="open_gps_msg">please open GPS of your device, we need the location information to help you get the local weather conditions</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
